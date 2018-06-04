@@ -1,0 +1,5 @@
+length_beta = length(sbeta)
+B = matrix(NA,REP,length_beta)
+I = Q = PC = rep(NA,REP)
+ST0.2 =ST0.5 = ST0.8 = rep(NA,REP)
+DL =NX = matrix(NA,REP,n)
